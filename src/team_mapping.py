@@ -53,8 +53,10 @@ TEAM_ALIASES: dict[str, str] = {
 }
 
 
-def canonical_team_name(name: str) -> str:
+def canonical_team_name(name: str | float | None) -> str:
     cleaned = normalize_team_name(name)
+    if not cleaned:
+        return ""
     key = cleaned.lower()
     return TEAM_ALIASES.get(key, cleaned)
 

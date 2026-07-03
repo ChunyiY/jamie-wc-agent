@@ -63,7 +63,7 @@ def load_goalscorers(path: Path) -> pd.DataFrame:
     frame["date"] = pd.to_datetime(frame["date"], errors="coerce", utc=True)
     for col in ("home_team", "away_team", "team", "scorer"):
         if col in frame.columns:
-            frame[col] = frame[col].astype(str).map(canonical_team_name)
+            frame[col] = frame[col].apply(canonical_team_name).replace("", pd.NA)
     for col in ("own_goal", "penalty"):
         if col in frame.columns:
             frame[col] = frame[col].astype(str).str.upper().isin({"TRUE", "1", "YES"})

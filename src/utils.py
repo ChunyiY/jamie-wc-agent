@@ -60,8 +60,15 @@ def parse_json_list(value: Any) -> list[Any]:
     return []
 
 
-def normalize_team_name(name: str) -> str:
-    return " ".join(name.strip().split())
+def normalize_team_name(name: str | float | None) -> str:
+    if name is None:
+        return ""
+    if isinstance(name, float) and pd.isna(name):
+        return ""
+    text = name if isinstance(name, str) else str(name)
+    if text.lower() in {"nan", "none", "<na>"}:
+        return ""
+    return " ".join(text.strip().split())
 
 
 def outcome_to_label(outcome: int) -> str:

@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import inspect
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -44,11 +45,11 @@ class FootballOutcomeModel:
 
     def _build_model(self, model_name: str):
         if model_name == "logistic_regression":
-            return LogisticRegression(
-                max_iter=2000,
-                multi_class="multinomial",
-                solver="lbfgs",
-            )
+            params: dict[str, object] = {"max_iter": 2000, "solver": "lbfgs"}
+            # sklearn >= 1.7 removed multi_class; multinomial is then the default.
+            if "multi_class" in inspect.signature(LogisticRegression.__init__).parameters:
+                params["multi_class"] = "multinomial"
+            return LogisticRegression(**params)
         if model_name == "random_forest":
             return RandomForestClassifier(
                 n_estimators=300,
