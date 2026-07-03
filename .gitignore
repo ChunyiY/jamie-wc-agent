@@ -1,0 +1,38 @@
+# Secrets & local config
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.ruff_cache/
+
+# Testing & tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Runtime artifacts (retrain via app or scripts)
+models/*.joblib
+logs/
+*.log
+
+# OS & editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Kaggle download archives
+data/*.zip

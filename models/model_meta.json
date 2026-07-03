@@ -1,0 +1,11 @@
+{
+  "fingerprint": "0805d69da545f6d6",
+  "calibrated": false,
+  "training_matches": 80,
+  "ensemble_weights": [
+    0.35,
+    0.3,
+    0.35
+  ],
+  "walk_forward_folds": 0
+}

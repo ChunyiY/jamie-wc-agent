@@ -1,0 +1,94 @@
+date,team_a,team_b,neutral,tournament,stage,group,round,ground,time
+2026-06-11,Mexico,South Africa,True,FIFA World Cup,group,Group A,Matchday 1,Mexico City,13:00 UTC-6
+2026-06-11,South Korea,Czech Republic,True,FIFA World Cup,group,Group A,Matchday 1,Guadalajara (Zapopan),20:00 UTC-6
+2026-06-18,Czech Republic,South Africa,True,FIFA World Cup,group,Group A,Matchday 8,Atlanta,12:00 UTC-4
+2026-06-18,Mexico,South Korea,True,FIFA World Cup,group,Group A,Matchday 8,Guadalajara (Zapopan),19:00 UTC-6
+2026-06-24,Czech Republic,Mexico,True,FIFA World Cup,group,Group A,Matchday 14,Mexico City,19:00 UTC-6
+2026-06-24,South Africa,South Korea,True,FIFA World Cup,group,Group A,Matchday 14,Monterrey (Guadalupe),19:00 UTC-6
+2026-06-12,Canada,Bosnia & Herzegovina,True,FIFA World Cup,group,Group B,Matchday 2,Toronto,15:00 UTC-4
+2026-06-13,Qatar,Switzerland,True,FIFA World Cup,group,Group B,Matchday 3,San Francisco Bay Area (Santa Clara),12:00 UTC-7
+2026-06-18,Switzerland,Bosnia & Herzegovina,True,FIFA World Cup,group,Group B,Matchday 8,Los Angeles (Inglewood),12:00 UTC-7
+2026-06-18,Canada,Qatar,True,FIFA World Cup,group,Group B,Matchday 8,Vancouver,15:00 UTC-7
+2026-06-24,Switzerland,Canada,True,FIFA World Cup,group,Group B,Matchday 14,Vancouver,12:00 UTC-7
+2026-06-24,Bosnia & Herzegovina,Qatar,True,FIFA World Cup,group,Group B,Matchday 14,Seattle,12:00 UTC-7
+2026-06-13,Brazil,Morocco,True,FIFA World Cup,group,Group C,Matchday 3,New York/New Jersey (East Rutherford),18:00 UTC-4
+2026-06-13,Haiti,Scotland,True,FIFA World Cup,group,Group C,Matchday 3,Boston (Foxborough),21:00 UTC-4
+2026-06-19,Scotland,Morocco,True,FIFA World Cup,group,Group C,Matchday 9,Boston (Foxborough),18:00 UTC-4
+2026-06-19,Brazil,Haiti,True,FIFA World Cup,group,Group C,Matchday 9,Philadelphia,20:30 UTC-4
+2026-06-24,Scotland,Brazil,True,FIFA World Cup,group,Group C,Matchday 14,Miami (Miami Gardens),18:00 UTC-4
+2026-06-24,Morocco,Haiti,True,FIFA World Cup,group,Group C,Matchday 14,Atlanta,18:00 UTC-4
+2026-06-12,USA,Paraguay,True,FIFA World Cup,group,Group D,Matchday 2,Los Angeles (Inglewood),18:00 UTC-7
+2026-06-13,Australia,Turkey,True,FIFA World Cup,group,Group D,Matchday 3,Vancouver,21:00 UTC-7
+2026-06-19,USA,Australia,True,FIFA World Cup,group,Group D,Matchday 9,Seattle,12:00 UTC-7
+2026-06-19,Turkey,Paraguay,True,FIFA World Cup,group,Group D,Matchday 9,San Francisco Bay Area (Santa Clara),20:00 UTC-7
+2026-06-25,Turkey,USA,True,FIFA World Cup,group,Group D,Matchday 15,Los Angeles (Inglewood),19:00 UTC-7
+2026-06-25,Paraguay,Australia,True,FIFA World Cup,group,Group D,Matchday 15,San Francisco Bay Area (Santa Clara),19:00 UTC-7
+2026-06-14,Germany,Curaçao,True,FIFA World Cup,group,Group E,Matchday 4,Houston,12:00 UTC-5
+2026-06-14,Ivory Coast,Ecuador,True,FIFA World Cup,group,Group E,Matchday 4,Philadelphia,19:00 UTC-4
+2026-06-20,Germany,Ivory Coast,True,FIFA World Cup,group,Group E,Matchday 10,Toronto,16:00 UTC-4
+2026-06-20,Ecuador,Curaçao,True,FIFA World Cup,group,Group E,Matchday 10,Kansas City,19:00 UTC-5
+2026-06-25,Curaçao,Ivory Coast,True,FIFA World Cup,group,Group E,Matchday 15,Philadelphia,16:00 UTC-4
+2026-06-25,Ecuador,Germany,True,FIFA World Cup,group,Group E,Matchday 15,New York/New Jersey (East Rutherford),16:00 UTC-4
+2026-06-14,Netherlands,Japan,True,FIFA World Cup,group,Group F,Matchday 4,Dallas (Arlington),15:00 UTC-5
+2026-06-14,Sweden,Tunisia,True,FIFA World Cup,group,Group F,Matchday 4,Monterrey (Guadalupe),20:00 UTC-6
+2026-06-20,Netherlands,Sweden,True,FIFA World Cup,group,Group F,Matchday 10,Houston,12:00 UTC-5
+2026-06-20,Tunisia,Japan,True,FIFA World Cup,group,Group F,Matchday 10,Monterrey (Guadalupe),22:00 UTC-6
+2026-06-25,Japan,Sweden,True,FIFA World Cup,group,Group F,Matchday 15,Dallas (Arlington),18:00 UTC-5
+2026-06-25,Tunisia,Netherlands,True,FIFA World Cup,group,Group F,Matchday 15,Kansas City,18:00 UTC-5
+2026-06-15,Belgium,Egypt,True,FIFA World Cup,group,Group G,Matchday 5,Seattle,12:00 UTC-7
+2026-06-15,Iran,New Zealand,True,FIFA World Cup,group,Group G,Matchday 5,Los Angeles (Inglewood),18:00 UTC-7
+2026-06-21,Belgium,Iran,True,FIFA World Cup,group,Group G,Matchday 11,Los Angeles (Inglewood),12:00 UTC-7
+2026-06-21,New Zealand,Egypt,True,FIFA World Cup,group,Group G,Matchday 11,Vancouver,18:00 UTC-7
+2026-06-26,Egypt,Iran,True,FIFA World Cup,group,Group G,Matchday 16,Seattle,20:00 UTC-7
+2026-06-26,New Zealand,Belgium,True,FIFA World Cup,group,Group G,Matchday 16,Vancouver,20:00 UTC-7
+2026-06-15,Spain,Cape Verde,True,FIFA World Cup,group,Group H,Matchday 5,Atlanta,12:00 UTC-4
+2026-06-15,Saudi Arabia,Uruguay,True,FIFA World Cup,group,Group H,Matchday 5,Miami (Miami Gardens),18:00 UTC-4
+2026-06-21,Spain,Saudi Arabia,True,FIFA World Cup,group,Group H,Matchday 11,Atlanta,12:00 UTC-4
+2026-06-21,Uruguay,Cape Verde,True,FIFA World Cup,group,Group H,Matchday 11,Miami (Miami Gardens),18:00 UTC-4
+2026-06-26,Cape Verde,Saudi Arabia,True,FIFA World Cup,group,Group H,Matchday 16,Houston,19:00 UTC-5
+2026-06-26,Uruguay,Spain,True,FIFA World Cup,group,Group H,Matchday 16,Guadalajara (Zapopan),18:00 UTC-6
+2026-06-16,France,Senegal,True,FIFA World Cup,group,Group I,Matchday 6,New York/New Jersey (East Rutherford),15:00 UTC-4
+2026-06-16,Iraq,Norway,True,FIFA World Cup,group,Group I,Matchday 6,Boston (Foxborough),18:00 UTC-4
+2026-06-22,France,Iraq,True,FIFA World Cup,group,Group I,Matchday 12,Philadelphia,17:00 UTC-4
+2026-06-22,Norway,Senegal,True,FIFA World Cup,group,Group I,Matchday 12,New York/New Jersey (East Rutherford),20:00 UTC-4
+2026-06-26,Norway,France,True,FIFA World Cup,group,Group I,Matchday 16,Boston (Foxborough),15:00 UTC-4
+2026-06-26,Senegal,Iraq,True,FIFA World Cup,group,Group I,Matchday 16,Toronto,15:00 UTC-4
+2026-06-16,Argentina,Algeria,True,FIFA World Cup,group,Group J,Matchday 6,Kansas City,20:00 UTC-5
+2026-06-16,Austria,Jordan,True,FIFA World Cup,group,Group J,Matchday 6,San Francisco Bay Area (Santa Clara),21:00 UTC-7
+2026-06-22,Argentina,Austria,True,FIFA World Cup,group,Group J,Matchday 12,Dallas (Arlington),12:00 UTC-5
+2026-06-22,Jordan,Algeria,True,FIFA World Cup,group,Group J,Matchday 12,San Francisco Bay Area (Santa Clara),20:00 UTC-7
+2026-06-27,Algeria,Austria,True,FIFA World Cup,group,Group J,Matchday 17,Kansas City,21:00 UTC-5
+2026-06-27,Jordan,Argentina,True,FIFA World Cup,group,Group J,Matchday 17,Dallas (Arlington),21:00 UTC-5
+2026-06-17,Portugal,DR Congo,True,FIFA World Cup,group,Group K,Matchday 7,Houston,12:00 UTC-5
+2026-06-17,Uzbekistan,Colombia,True,FIFA World Cup,group,Group K,Matchday 7,Mexico City,20:00 UTC-6
+2026-06-23,Portugal,Uzbekistan,True,FIFA World Cup,group,Group K,Matchday 13,Houston,12:00 UTC-5
+2026-06-23,Colombia,DR Congo,True,FIFA World Cup,group,Group K,Matchday 13,Guadalajara (Zapopan),20:00 UTC-6
+2026-06-27,Colombia,Portugal,True,FIFA World Cup,group,Group K,Matchday 17,Miami (Miami Gardens),19:30 UTC-4
+2026-06-27,DR Congo,Uzbekistan,True,FIFA World Cup,group,Group K,Matchday 17,Atlanta,19:30 UTC-4
+2026-06-17,England,Croatia,True,FIFA World Cup,group,Group L,Matchday 7,Dallas (Arlington),15:00 UTC-5
+2026-06-17,Ghana,Panama,True,FIFA World Cup,group,Group L,Matchday 7,Toronto,19:00 UTC-4
+2026-06-23,England,Ghana,True,FIFA World Cup,group,Group L,Matchday 13,Boston (Foxborough),16:00 UTC-4
+2026-06-23,Panama,Croatia,True,FIFA World Cup,group,Group L,Matchday 13,Toronto,19:00 UTC-4
+2026-06-27,Panama,England,True,FIFA World Cup,group,Group L,Matchday 17,New York/New Jersey (East Rutherford),17:00 UTC-4
+2026-06-27,Croatia,Ghana,True,FIFA World Cup,group,Group L,Matchday 17,Philadelphia,17:00 UTC-4
+2026-06-28,South Africa,Canada,True,FIFA World Cup,knockout,,Round of 32,Los Angeles (Inglewood),12:00 UTC-7
+2026-06-29,Germany,Paraguay,True,FIFA World Cup,knockout,,Round of 32,Boston (Foxborough),16:30 UTC-4
+2026-06-29,Netherlands,Morocco,True,FIFA World Cup,knockout,,Round of 32,Monterrey (Guadalupe),19:00 UTC-6
+2026-06-29,Brazil,Japan,True,FIFA World Cup,knockout,,Round of 32,Houston,12:00 UTC-5
+2026-06-30,France,Sweden,True,FIFA World Cup,knockout,,Round of 32,New York/New Jersey (East Rutherford),17:00 UTC-4
+2026-06-30,Ivory Coast,Norway,True,FIFA World Cup,knockout,,Round of 32,Dallas (Arlington),12:00 UTC-5
+2026-06-30,Mexico,Ecuador,True,FIFA World Cup,knockout,,Round of 32,Mexico City,19:00 UTC-6
+2026-07-01,England,DR Congo,True,FIFA World Cup,knockout,,Round of 32,Atlanta,12:00 UTC-4
+2026-07-01,USA,Bosnia & Herzegovina,True,FIFA World Cup,knockout,,Round of 32,San Francisco Bay Area (Santa Clara),17:00 UTC-7
+2026-07-01,Belgium,Senegal,True,FIFA World Cup,knockout,,Round of 32,Seattle,13:00 UTC-7
+2026-07-02,Portugal,Croatia,True,FIFA World Cup,knockout,,Round of 32,Toronto,19:00 UTC-4
+2026-07-02,Spain,Austria,True,FIFA World Cup,knockout,,Round of 32,Los Angeles (Inglewood),12:00 UTC-7
+2026-07-02,Switzerland,Algeria,True,FIFA World Cup,knockout,,Round of 32,Vancouver,20:00 UTC-7
+2026-07-03,Argentina,Cape Verde,True,FIFA World Cup,knockout,,Round of 32,Miami (Miami Gardens),18:00 UTC-4
+2026-07-03,Colombia,Ghana,True,FIFA World Cup,knockout,,Round of 32,Kansas City,20:30 UTC-5
+2026-07-03,Australia,Egypt,True,FIFA World Cup,knockout,,Round of 32,Dallas (Arlington),13:00 UTC-5
+2026-07-04,Paraguay,France,True,FIFA World Cup,knockout,,Round of 16,Philadelphia,17:00 UTC-4
+2026-07-04,Canada,Morocco,True,FIFA World Cup,knockout,,Round of 16,Houston,12:00 UTC-5
+2026-07-05,Brazil,Norway,True,FIFA World Cup,knockout,,Round of 16,New York/New Jersey (East Rutherford),16:00 UTC-4
+2026-07-05,Mexico,England,True,FIFA World Cup,knockout,,Round of 16,Mexico City,18:00 UTC-6
+2026-07-06,USA,Belgium,True,FIFA World Cup,knockout,,Round of 16,Seattle,17:00 UTC-7
